@@ -1,0 +1,7 @@
+﻿What is deployment?
+        It is how to push a website to make it public. 
+Where is deployment in the software development lifecycle?
+        It is step 5 out of 6 in the cycle it comes before maintenance
+What are some popular hosting companies/services?
+        Heroku, Go Daddy, DreamHost, Bluehost, Hostgator, 
+Bluehost is regarded as the best web hosting overall. Have to pay for all of them except Heroku. All start around 2-3$ for the first month, then renew at 8.99. Some have free domains, some don't.
